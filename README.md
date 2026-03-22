@@ -13,12 +13,12 @@ Interested in Machine Learning, Systems, and low-level understanding of how thin
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white">
 </a>
 
-<a href="https://x.com/theadisinghal">
-  <img src="https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white">
-</a>
-
 <a href="https://leetcode.com/AdityaWeb">
   <img src="https://img.shields.io/badge/-FFA116?style=flat&logo=leetcode&logoColor=black">
+</a>
+
+<a href="https://x.com/theadisinghal">
+  <img src="https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white">
 </a>
 
 </div>
